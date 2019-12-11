@@ -1,0 +1,15 @@
+/*todo componente possui 1 nomes*/
+.primary-button{
+
+    color: var(--color-primary);
+    text-decoration: none;
+    font-family: 'Comfortaa', sans-serif;
+    font-weight: bold;
+    background-color: var(--color-secundary);
+    border-radius: 4px;
+
+    width: 45;
+    height: 14;
+
+    padding: 5px 12px ;
+}

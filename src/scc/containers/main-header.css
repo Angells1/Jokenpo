@@ -1,0 +1,15 @@
+.main-header{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+    
+
+}
+
+.main-header > .main-logo{
+/* > significa componente filho */
+
+    font-size: 20px;
+}
