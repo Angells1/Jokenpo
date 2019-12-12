@@ -1,0 +1,12 @@
+.main-menu > .simple-actions{
+
+    font-size: 12px;
+    margin-right: var(--gap-small);
+}
+
+.main-menu > .primary-button{
+
+padding: 6px 8px;
+font-size: 12px;
+
+}
